@@ -1,6 +1,6 @@
 # 🛒 Vrinda Store – Annual Sales Dashboard
 
-A professional **Power BI / Data Analytics dashboard** that provides a comprehensive view of **Vrinda Store’s annual sales performance**, customer behavior, and order trends across multiple channels and demographics.
+A professional **Adv.Excel / Data Analytics dashboard** that provides a comprehensive view of **Vrinda Store’s annual sales performance**, customer behavior, and order trends across multiple channels and demographics.
 
 ---
 
@@ -45,9 +45,9 @@ The dashboard enables **data-driven decision-making** through visually rich and 
 
 ## 🧰 Tools & Technologies
 
-- **Power BI** – Dashboard creation & visualization  
-- **Excel / CSV** – Data source  
-- **Data Modeling & DAX** – Calculations and measures  
+- **Adv.Excel** – Dashboard creation & visualization  
+- **Adv.Excel / CSV** – Data source  
+- **Data Modeling ** – Calculations and measures  
 
 ---
 
@@ -56,7 +56,7 @@ The dashboard enables **data-driven decision-making** through visually rich and 
 - Business performance review  
 - Sales and marketing strategy planning  
 - Customer behavior analysis  
-- Portfolio project for **Data Analyst / BI roles**
+- Portfolio project for **Data Analyst /Adv.Excel **
 
 ---
 
